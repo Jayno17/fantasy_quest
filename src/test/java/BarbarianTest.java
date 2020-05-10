@@ -21,6 +21,8 @@ public class BarbarianTest {
     public void  hasHealthScore(){
         assertEquals(90, barbarian.getHealthScore());
     }
-    
+   
+    }
+
 
 }
